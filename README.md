@@ -6,3 +6,6 @@ Flutter with GraphQL
 
 add dependency
 graphql_flutter
+
+if you are facing cocoapods problem try update the cocoapods with
+sudo gem install cocoapods
